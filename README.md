@@ -1,7 +1,7 @@
 ## Goal
 
 There are 2 goals for this project:
-1. Compare the two types of posts, and figure which one gets more comments on average
+1. Compare the two types of posts, Ask HN and Show HN and figure which one gets more comments on average
 2. Figure out if posts at a certain time receive more comments on average
 
 
